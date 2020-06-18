@@ -1,4 +1,4 @@
-# sales_purchase_management_system (2)
+# sales_purchase_management_system
 
 - This is .pynb file for that you have to install jypiter
 
